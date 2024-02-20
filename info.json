@@ -5,5 +5,7 @@
   "Author": "Insprill",
   "EntryMethod": "Multiplayer.Multiplayer.Load",
   "ManagerVersion": "0.27.3",
-  "LoadAfter": [ "RemoteDispatch" ]
+  "LoadAfter": [ "RemoteDispatch" ],
+  "HomePage": "https://github.com/t0stiman/dv_multiplayer",
+  "Repository": "https://raw.githubusercontent.com/t0stiman/dv_multiplayer/master/repository.json"
 }
