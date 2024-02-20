@@ -27,6 +27,7 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#how-to-install">How to install</a></li>
     <li><a href="#building">Building</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -53,7 +54,11 @@ For a list of planned features, see the [project board][project-board-url].
 The mod will be released on Nexus once it's ready.
 
 
+## How to install
 
+1. Install Unity Mod Manager(UMM)
+2. Uninstall all your existing mods
+2. Download the newest zip from the [releases](https://github.com/t0stiman/dv_multiplayer/releases) and yeet it into UMM
 
 <!-- BUILDING -->
 ## Building

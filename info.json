@@ -1,6 +1,6 @@
 {
   "Id": "Multiplayer",
-  "Version": "0.1.0",
+  "Version": "2024.02.19",
   "DisplayName": "Multiplayer",
   "Author": "Insprill",
   "EntryMethod": "Multiplayer.Multiplayer.Load",
